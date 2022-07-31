@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth_Servo_control</string>
+    <string name="Text_text">현재 상태</string>
+    <string name="Bluetooth_On">블루투스 키기</string>
+    <string name="Bluetooth_Off">블루투스 끄기</string>
+    <string name="Connection">연결하기</string>
+    <string name="Up">Up</string>
+    <string name="Down">Down</string>
+    <string name="Left">Left</string>
+    <string name="Right">Right</string>
+</resources>
